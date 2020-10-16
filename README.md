@@ -1,5 +1,5 @@
 # Pseudo Thermostat API Interface 
-Description: A JavaScript and Python-based, pseudo thermostat API interface intended to model how our application might interface with the hardware of a thermostat and how it might communicate with a user.  
+Description: A JavaScript and Python-based, pseudo thermostat API interface intended to model how a real application might interface with the hardware of a thermostat and how it might communicate with a user.  
 
 Testing: Inside the theromstat-api folder is thermostat.js and data_generation.js. 
 Run data_generation.js first to get dummy thermostat data generating for the main api.
